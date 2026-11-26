@@ -38,6 +38,7 @@ A corporate lead our AI Sales Agent found in the first 22 hours, for Asian Tiger
 | [Receptionist Eval](https://github.com/dwadlane/receptionist-eval) | Scripted callers that score an AI receptionist before real customers ring |
 | [Safe GoHighLevel MCP](https://github.com/dwadlane/gohighlevel-mcp-safe) | 12 tools that find missed calls, stale deals and unanswered leads; every write is a dry run until you confirm |
 | [Claude Skills for Trades](https://github.com/dwadlane/claude-skills-for-trades) | 8 ready Skills for quotes, missed calls, invoice chasing, reviews and the weekly Owner report, plus a live calculator |
+| [Founder Year OS](https://github.com/dwadlane/founder-year-os) | A year plan an AI Chief of Staff runs: Friday reviews, a live scoreboard and 4 Skills |
 | [Electrician Website and AI Receptionist](https://github.com/dwadlane/electrician-website-ai-receptionist) | Kate answers calls and chat for a Melbourne electrician |
 | [After-Hours Receptionist](https://github.com/dwadlane/ai-after-hours-receptionist) | Answers when the office is closed and sends the Owner a summary |
 | [Inquiry First Responder](https://github.com/dwadlane/inquiry-first-responder) | Replies in seconds, collects the job, hands off to a person |
