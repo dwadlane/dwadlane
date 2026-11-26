@@ -34,7 +34,7 @@ A corporate lead our AI Sales Agent found in the first 22 hours, for Asian Tiger
 | [AI Sales System, Moving Company](https://github.com/dwadlane/ai-sales-system-moving-company) | AI receptionist, CRM, AI Sales Agent and Quote Desk for Asian Tigers Philippines |
 | [Owner Morning Brief](https://github.com/dwadlane/owner-morning-brief) | One agent runs ServiceM8, MYOB and GoHighLevel together and writes the Owner one brief: jobs, A$28,680 overdue, 5 leads waiting |
 | [Claude Teams Rollout Kit](https://github.com/dwadlane/claude-teams-rollout-kit) | Admin setup, department Projects, 7 Skills and a 60-day plan to roll Claude out to staff |
-| [ServiceM8 MCP Server](https://github.com/dwadlane/servicem8-mcp) | Lets Claude chase cold quotes, read the schedule and log calls in ServiceM8 |
+| [ServiceM8 MCP Server](https://github.com/dwadlane/servicem8-mcp) | Lets Claude chase cold quotes, read the schedule and log calls in ServiceM8. [Try it live](https://servicem8-mcp-demo.dwad-lane.workers.dev/), nothing to install |
 | [MYOB MCP Server](https://github.com/dwadlane/myob-mcp) | Lets Claude find overdue invoices, chase payments and read cash position in MYOB |
 | [Receptionist Eval](https://github.com/dwadlane/receptionist-eval) | Scripted callers that score an AI receptionist before real customers ring |
 | [Safe GoHighLevel MCP](https://github.com/dwadlane/gohighlevel-mcp-safe) | 12 tools that find missed calls, stale deals and unanswered leads; every write is a dry run until you confirm |
