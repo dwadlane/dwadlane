@@ -32,6 +32,7 @@ A corporate lead our AI Sales Agent found in the first 22 hours, for Asian Tiger
 | Project | What it does |
 |---|---|
 | [AI Sales System, Moving Company](https://github.com/dwadlane/ai-sales-system-moving-company) | AI receptionist, CRM, AI Sales Agent and Quote Desk for Asian Tigers Philippines |
+| [Owner Morning Brief](https://github.com/dwadlane/owner-morning-brief) | One agent runs ServiceM8, MYOB and GoHighLevel together and writes the Owner one brief: jobs, A$28,680 overdue, 5 leads waiting |
 | [Claude Teams Rollout Kit](https://github.com/dwadlane/claude-teams-rollout-kit) | Admin setup, department Projects, 7 Skills and a 60-day plan to roll Claude out to staff |
 | [ServiceM8 MCP Server](https://github.com/dwadlane/servicem8-mcp) | Lets Claude chase cold quotes, read the schedule and log calls in ServiceM8 |
 | [MYOB MCP Server](https://github.com/dwadlane/myob-mcp) | Lets Claude find overdue invoices, chase payments and read cash position in MYOB |
