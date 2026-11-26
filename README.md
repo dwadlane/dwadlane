@@ -34,6 +34,7 @@ A corporate lead our AI Sales Agent found in the first 22 hours, for Asian Tiger
 | [AI Sales System, Moving Company](https://github.com/dwadlane/ai-sales-system-moving-company) | AI receptionist, CRM, AI Sales Agent and Quote Desk for Asian Tigers Philippines |
 | [Agent Action Gate](https://github.com/dwadlane/agent-action-gate) | Every AI agent write is proposed, approved, run once and logged, with two-person approval, undo and a kill switch |
 | [Meta Ads Launch Guard](https://github.com/dwadlane/meta-ads-launch-guard) | Launch Meta ads across 30 accounts from one Claude chat: paused first, spend caps, human approval, current with Marketing API v27.0 |
+| [Messy Docs to Records](https://github.com/dwadlane/messy-docs-to-records) | 60 messy faxes and invoices into draft records at 96.7% field accuracy, duplicates flagged, an eval gate in CI |
 | [Owner Morning Brief](https://github.com/dwadlane/owner-morning-brief) | One agent runs ServiceM8, MYOB and GoHighLevel together and writes the Owner one brief: jobs, A$28,680 overdue, 5 leads waiting |
 | [Claude Teams Rollout Kit](https://github.com/dwadlane/claude-teams-rollout-kit) | Admin setup, department Projects, 7 Skills and a 60-day plan to roll Claude out to staff |
 | [ServiceM8 MCP Server](https://github.com/dwadlane/servicem8-mcp) | Lets Claude chase cold quotes, read the schedule and log calls in ServiceM8. [Try it live](https://servicem8-mcp-demo.dwad-lane.workers.dev/), nothing to install |
