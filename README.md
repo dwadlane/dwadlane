@@ -32,6 +32,8 @@ A corporate lead our AI Sales Agent found in the first 22 hours, for Asian Tiger
 | Project | What it does |
 |---|---|
 | [AI Sales System, Moving Company](https://github.com/dwadlane/ai-sales-system-moving-company) | AI receptionist, CRM, AI Sales Agent and Quote Desk for Asian Tigers Philippines |
+| [AI Executive Team](https://github.com/dwadlane/ai-executive-team-grok-bot) | Five AI agents (Chief of Staff, Sales, Operations, Marketing, Accounting and HR) brief a Founder every morning from live CRM, HR and accounting data |
+| [Microsoft 365 AI Intake Kit](https://github.com/dwadlane/m365-ai-intake-kit) | Power Automate flows and a Copilot Studio agent that turn a shared inbox into drafted replies, approvals and tracked requests, 57 tests |
 | [Agent Action Gate](https://github.com/dwadlane/agent-action-gate) | Every AI agent write is proposed, approved, run once and logged, with two-person approval, undo and a kill switch |
 | [Meta Ads Launch Guard](https://github.com/dwadlane/meta-ads-launch-guard) | Launch Meta ads across 30 accounts from one Claude chat: paused first, spend caps, human approval, current with Marketing API v27.0 |
 | [Messy Docs to Records](https://github.com/dwadlane/messy-docs-to-records) | 60 messy faxes and invoices into draft records at 96.7% field accuracy, duplicates flagged, an eval gate in CI |
