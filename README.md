@@ -1,12 +1,31 @@
-# Gaps2Gains: Back Office Systems for Service Businesses
+![Gaps2Gains: Back Office Systems for Service Businesses](banner.svg)
 
-We design and engineer the systems that answer every call, reply to every inquiry in seconds and follow up every quote, all in one CRM.
+# We Cut a Moving Company's Inquiry Reply Time From 13.8 Hours to 9 Seconds
+
+**Taking new engagements: Australia, New Zealand, Singapore**
+
+[Book a Free Discovery Call](https://gaps2gains.com/diagnosis)
+
+## The Proof
 
 **13.8 hours to 9 seconds**
-How fast a moving company now answers a new inquiry. [See the system](https://github.com/dwadlane/ai-sales-system-moving-company)
+How fast a moving company now answers a new inquiry, day or night. [See the system](https://github.com/dwadlane/ai-sales-system-moving-company)
 
 **386 leads**
 From four channels, now in one CRM.
+
+**US$9,350**
+A corporate lead our AI Sales Agent found in the first 22 hours, for Asian Tigers Philippines.
+
+## How We Work Together
+
+| Step | What you get | Time and price |
+|---|---|---|
+| Free Discovery Call | We listen, find where inquiries and follow-ups leak, and tell you straight whether we can help | 15 minutes, free |
+| 14-Day Business Diagnosis | A 90-day roadmap, yours to keep, credited in full toward The Build | A$749 |
+| The Build | A custom system build for your business | Priced after the Diagnosis |
+
+[Book a Free Discovery Call](https://gaps2gains.com/diagnosis)
 
 ## Selected Work
 
@@ -25,6 +44,6 @@ From four channels, now in one CRM.
 | [Website at 11 PM](https://github.com/dwadlane/website-at-11pm) | AI that answers on the website with no server bill |
 | [Premium Booking Flow](https://github.com/dwadlane/premium-booking-flow) | Four-step mobile booking for service businesses |
 
-**Tools we work in:** GoHighLevel, Claude and Claude Teams, Voice AI, Microsoft 365, Cloudflare, Next.js, accounting APIs.
+## Tools We Work In
 
-Want a system like this? [Book a Discovery Call](https://gaps2gains.com/diagnosis).
+GoHighLevel, Claude and Claude Teams, Voice AI, Microsoft 365, Cloudflare, Next.js, accounting APIs.
