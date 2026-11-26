@@ -14,6 +14,7 @@ From four channels, now in one CRM.
 |---|---|
 | [AI Sales System, Moving Company](https://github.com/dwadlane/ai-sales-system-moving-company) | AI receptionist, CRM, AI Sales Agent and Quote Desk for Asian Tigers Philippines |
 | [Claude Teams Rollout Kit](https://github.com/dwadlane/claude-teams-rollout-kit) | Admin setup, department Projects, 7 Skills and a 60-day plan to roll Claude out to staff |
+| [ServiceM8 MCP Server](https://github.com/dwadlane/servicem8-mcp) | Lets Claude chase cold quotes, read the schedule and log calls in ServiceM8 |
 | [Electrician Website and AI Receptionist](https://github.com/dwadlane/electrician-website-ai-receptionist) | Kate answers calls and chat for a Melbourne electrician |
 | [After-Hours Receptionist](https://github.com/dwadlane/ai-after-hours-receptionist) | Answers when the office is closed and sends the Owner a summary |
 | [Inquiry First Responder](https://github.com/dwadlane/inquiry-first-responder) | Replies in seconds, collects the job, hands off to a person |
